@@ -1,0 +1,14 @@
+C:\Users\LOQ\source\repos\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\LOQ\source\repos\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\LOQ\source\repos\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.Form1.resources
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.Main.resources
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.Guest.resources
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.Room.resources
+C:\Users\LOQ\source\repos\HotelManagement\obj\Debug\HotelManagement.Booking.resources
